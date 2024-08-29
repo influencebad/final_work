@@ -1,7 +1,7 @@
-# final_work
+
 <h1 align="center">Финальная работа по автоматизации на Python</h1>
 
 <h3>Объектом автоматизации выступают Api тесты и UI тесты финалного проекта по ручному тестированию сервиса КИНОПОИСК.</h3>  
 
 
-<h3Ссылка на финальный проект https://chill-hoverfly-00f.notion.site/b1f1885714ee451e850ab82c7b45b5a8?pvs=4</h3>
+<h3>Ссылка на финальный проект https://chill-hoverfly-00f.notion.site/b1f1885714ee451e850ab82c7b45b5a8?pvs=4</h3>
